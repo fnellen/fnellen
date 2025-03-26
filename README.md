@@ -9,6 +9,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying a Fullstack Website](https://www.federico-nellen.de/deploying-fullstack)
+- [Transform your Sonoff Zigbee Dongle Into a Zigbee Router - A Step-by-Step Guide](https://www.federico-nellen.de/sonoff-zigbeedongle-router)
+- [UniFi Voucher Printer](https://www.federico-nellen.de/unifi-voucher-printer)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
