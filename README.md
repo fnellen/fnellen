@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
 <h3 align="center">A passionate fullstack developer from Germany</h3>
 
+- 🔭 I’m currently working on [NonSeiSola.de](https://nonseisola.de)
+
 - 👨‍💻 All of my projects are available at [https://www.federico-nellen.de](https://www.federico-nellen.de)
 
 - 📝 I regularly write articles on [https://www.federico-nellen.de/blog/](https://www.federico-nellen.de/blog/)
